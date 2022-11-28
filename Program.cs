@@ -50,7 +50,7 @@ namespace Waterbill
 
                     portablewaterwastecost = portablewaterused * 2.95;
 
-                    Totalcost = portablewaterused * 13.43 + portablewaterused * 3.36 + portablewaterused * 3.60 + portablewaterused * 0.65;
+                    Totalcost = (portablewaterused * 13.43) + (portablewaterused * 3.36) + (portablewaterused * 3.60) + (portablewaterused * 0.65);
                     Console.WriteLine("******************************************************************************************************************");
                     Console.WriteLine("Names: " + Name + "Stay" + plot + "area" + address + "Monthly Bill");
                     Console.WriteLine("Portable Water used Kl:  " + portablewaterused);
@@ -66,7 +66,7 @@ namespace Waterbill
 
                     portablewaterwastecost = portablewaterused * 4.41;
 
-                    Totalcost = portablewaterused * 23.51 + portablewaterused * 5.03 + portablewaterused * 13.43 + portablewaterused * 3.36 + portablewaterused * 3.60 + portablewaterused * 0.65;
+                    Totalcost = (portablewaterused * 23.51) + (portablewaterused * 5.03) + (portablewaterused * 13.43) + (portablewaterused * 3.36) + (portablewaterused * 3.60) + (portablewaterused * 0.65);
                     Console.WriteLine("******************************************************************************************************************");
                     Console.WriteLine("Names: " + Name + "Stay" + plot + "area" + address + "Monthly Bill");
                     Console.WriteLine("Portable Water used Kl " + portablewaterused);
@@ -82,7 +82,7 @@ namespace Waterbill
 
                     portablewaterwastecost = portablewaterused * 5.89;
 
-                    Totalcost = portablewaterused * 36.16 + portablewaterused * 6.71 + portablewaterused * 23.51 + portablewaterused * 5.03 + portablewaterused * 13.43 + portablewaterused * 3.36 + portablewaterused * 3.60 + portablewaterused * 0.65;
+                    Totalcost = (portablewaterused * 36.16) + (portablewaterused * 6.71) + (portablewaterused * 23.51) + (portablewaterused * 5.03) + (portablewaterused * 13.43) + (portablewaterused * 3.36) + (portablewaterused * 3.60) + (portablewaterused * 0.65);
                     Console.WriteLine("******************************************************************************************************************");
                     Console.WriteLine("Names: " + Name + "Stay" + plot + "Area" + address + "Monthly Bill");
                     Console.WriteLine("Portable Water used Kl  " + portablewaterused);
@@ -98,7 +98,7 @@ namespace Waterbill
 
                     portablewaterwastecost = portablewaterused * 7.36;
                     ;
-                    Totalcost = portablewaterused * 45.21 + portablewaterused * 8.39 + portablewaterused * 36.16 + portablewaterused * 6.71 + portablewaterused * 23.51 + portablewaterused * 5.03 + portablewaterused * 13.43 + portablewaterused * 3.36 + portablewaterused * 3.60 + portablewaterused * 0.65;
+                    Totalcost = (portablewaterused * 45.21) + (portablewaterused * 8.39) + (portablewaterused * 36.16) + (portablewaterused * 6.71) + (portablewaterused * 23.51) + (portablewaterused * 5.03) + (portablewaterused * 13.43) + (portablewaterused * 3.36) + (portablewaterused * 3.60) + (portablewaterused * 0.65);
                     Console.WriteLine("******************************************************************************************************************");
                     Console.WriteLine("Names: " + Name + "Stay" + plot + "Area" + address + "Monthly Bill");
                     Console.WriteLine("Portable Water used Kl " + portablewaterused);
@@ -124,7 +124,7 @@ namespace Waterbill
 
                     portablewaterwastecost = portablewaterused * 0.65;
 
-                    Totalcost = portablewaterused * 4.92 + portablewaterused * 0.74;
+                    Totalcost = (portablewaterused * 4.92) + (portablewaterused * 0.74);
                     Console.WriteLine("******************************************************************************************************************");
                     Console.WriteLine("Names: " + Name + "Stay" + plot + "Area" + address + "Monthly Bil");
                     Console.WriteLine("Portable Water used Kl " + portablewaterused);
@@ -140,7 +140,7 @@ namespace Waterbill
 
                     portablewaterwastecost = portablewaterused * 2.95;
 
-                    Totalcost = portablewaterused * 14.61 + portablewaterused * 3.36 + portablewaterused * 4.92 + portablewaterused * 0.74;
+                    Totalcost = (portablewaterused * 14.61) + (portablewaterused * 3.36) + (portablewaterused * 4.92) + (portablewaterused * 0.74);
                     Console.WriteLine("******************************************************************************************************************");
                     Console.WriteLine("Names: " + Name + "Stay" + plot + "Area" + address + "Monthly Bill");
                     Console.WriteLine("Portable Water cost " + portablewaterused);
@@ -171,7 +171,7 @@ namespace Waterbill
 
                     portablewaterwastecost = portablewaterused * 5.89;
 
-                    Totalcost = portablewaterused * 39.35 + portablewaterused * 6.71 + portablewaterused * 25.88 + portablewaterused * 5.03 + portablewaterused * 14.61 + portablewaterused * 3.36 + portablewaterused * 4.92 + portablewaterused * 0.74;
+                    Totalcost = (portablewaterused * 39.35) + (portablewaterused * 6.71) + (portablewaterused * 25.88) + (portablewaterused * 5.03) + (portablewaterused * 14.61) + (portablewaterused * 3.36) + (portablewaterused * 4.92) + (portablewaterused * 0.74);
                     Console.WriteLine("******************************************************************************************************************");
                     Console.WriteLine("Names: " + Name + "Stay" + plot + "Area" + address + "Monthly Bill");
                     Console.WriteLine("Portable Water used Kl " + portablewaterused);
@@ -187,7 +187,7 @@ namespace Waterbill
 
                     portablewaterwastecost = portablewaterused * 7.36;
 
-                    Totalcost = portablewaterused * 49.20 + portablewaterused * 8.39 + portablewaterused * 39.35 + portablewaterused * 6.71 + portablewaterused * 25.88 + portablewaterused * 5.03 + portablewaterused * 14.61 + portablewaterused * 3.36 + portablewaterused * 4.92 + portablewaterused * 0.74;
+                    Totalcost = (portablewaterused * 49.20) + (portablewaterused * 8.39) + (portablewaterused * 39.35) + (portablewaterused * 6.71) + (portablewaterused * 25.88) + (portablewaterused * 5.03) + (portablewaterused * 14.61) + (portablewaterused * 3.36) + (portablewaterused * 4.92) + (portablewaterused * 0.74);
                     Console.WriteLine("******************************************************************************************************************");
                     Console.WriteLine("Names: " + Name + "Stay" + plot + "Area" + address + "Monthly Bill");
                     Console.WriteLine("Portable Water used Kl" + portablewaterused);
